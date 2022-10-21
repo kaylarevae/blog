@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Oh, hey! I'm kaylarevae, a web developer.
 ---
 
